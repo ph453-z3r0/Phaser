@@ -88,7 +88,7 @@ Phaser is released under the **MIT License**.
 
 ## Source
 
-Find the executables in the release page
+Find the executables in the [Releases Page](https://github.com/ph453-z3r0/Phaser/releases)
 
 ---
 
